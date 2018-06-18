@@ -1,0 +1,45 @@
+# Battlecruiser - Release Notes
+
+## All changes numbers are based on: https://trello.com/b/yxwZzUaI/tyt-native
+
+
+
+# Release 1.0.12 - 06-04-2018
+
+## Changes
+
+* 273: Bug - Remove 6 characters validation in login page
+
+
+
+## Device Support
+
+* iPhones with iOS 10.0 or newer
+
+
+
+
+
+# Release 1.0.11 - 05-21-2018
+
+## Changes
+
+* 258: Feature - Branch event instrumentation
+
+* 270: Engineer - Update UrbanAirship deep linking to conform with the new key / value pair standard
+
+* 212: Feature - As a user, I want to click on a link within the app, within a push notification or within a newsletter email and be taken directly to a location within the app (aka deep linking).
+
+* 259: Feature - Support key / value pair designations for app screens to enable deep linking (Branch)
+
+* 262: Feature - Check for active flag instead of entitled flag to determine IAP in the app
+
+* 266: Feature - For TYT Employee, do not show "Upgrade TYT Plus"
+
+* 268: Engineer - Update Production Model to use the correct Media type based on API call
+
+
+
+## Device Support
+
+* iPhones with iOS 10.0 or newer
