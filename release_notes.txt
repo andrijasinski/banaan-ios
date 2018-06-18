@@ -2,7 +2,6 @@
 
 ## All changes numbers are based on: https://trello.com/b/yxwZzUaI/tyt-native
 
-#
 
 # Release 1.0.12 - 06-04-2018
 
