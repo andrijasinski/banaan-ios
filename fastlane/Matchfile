@@ -1,4 +1,4 @@
-git_url "git@github.com:NevercodeHQ/ios-certificates.git"
+git_url "https://github.com/andrijasinski/ios-certificates"
 
 type "development" # The default type, can be: appstore, adhoc, enterprise or development
 
